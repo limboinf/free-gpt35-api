@@ -1,5 +1,7 @@
 # free-gpt35-api
 
+fork from: https://github.com/missuo/FreeGPT35
+
 ```sh
 # init project
 rye sync
